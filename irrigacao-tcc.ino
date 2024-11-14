@@ -8,12 +8,12 @@
 #include <DHT_U.h>
 
 // Informações do DHT
-#define DHTPIN A0
+#define DHTPIN 2
 #define DHTTYPE DHT22
 DHT dht(DHTPIN, DHTTYPE);
 
 // Informações do sensor CS12
-#define SOIL_MOISTURE A2
+#define SOIL_MOISTURE A3
 
 // Numero de colunas, linhas e endereço do LCD.
 #define col 16
