@@ -4,7 +4,6 @@ Os sensores e demais componentes utilizados neste protótipo, apresentados na fi
 
 ![circuito](https://github.com/user-attachments/assets/7bef8c62-04f0-43dd-8ec3-d90501a453b0)
 
- O código, conforme a figura, utiliza um limiar de umidade, que ativa a bomba d’água caso os sensores do sistema identifiquem um valor de umidade do solo menor que 40%. Nesse cenário, a bomba d'água é acionada e ficará ligada por 1 minuto para realizar a ação de irrigação e depois é desligada.
+O código, conforme a figura, utiliza um limiar de umidade, que ativa a bomba d’água caso os sensores do sistema identifiquem um valor de umidade do solo menor que 40%. Nesse cenário, a bomba d'água é acionada e ficará ligada por 1 minuto para realizar a ação de irrigação e depois é desligada.
 Após o processo de irrigação ou verificação da umidade, o sistema entra em um intervalo de 1 minuto antes de realizar uma nova aferição.
 
-![diagrama](https://github.com/user-attachments/assets/e9d281d0-9e2b-4ec1-99e1-63e7dc4422fa)
