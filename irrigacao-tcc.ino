@@ -4,7 +4,7 @@
 #include <Wire.h> // Conexão do LCD.
 #include <LiquidCrystal_I2C_Hangul.h> // Biblioteca do LCD.
 #include <RTClib.h> // Biblioteca para RTC.
-#include <DHT.h> // Bibliotea do DHT.
+#include <DHT.h> // Biblioteca do DHT.
 #include <DHT_U.h>
 
 // Informações do DHT
